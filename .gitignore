@@ -1,0 +1,19 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Weights and Databases
+victorian_adapter/
+chroma_db/
+*.safetensors
+*.pt
+*.bin
+*.sqlite3
+
+# OS Files
+.DS_Store
