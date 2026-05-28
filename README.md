@@ -12,7 +12,7 @@ The system acts as a sophisticated, brooding scholar, grounding its philosophica
 **Try the deployed application here:** [VictorianGPT on Hugging Face](https://huggingface.co/spaces/tm-vettel/VictorianGPT)
 
 <div align="center">
-  <img src="assets/app.png" alt="VictorianGPT Web Interface" width="850"/>
+  <img src="app.png" alt="VictorianGPT Web Interface" width="850"/>
 </div>
 ---
 
