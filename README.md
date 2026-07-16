@@ -1,4 +1,4 @@
-# VictorianGPT: A Compound AI System
+# VictorianGPT: A Compound AI System 
 
 [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/tm-vettel/VictorianGPT)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)]()
@@ -7,6 +7,7 @@
 VictorianGPT is an end-to-end Machine Learning pipeline that combines **Parameter-Efficient Fine-Tuning (QLoRA)** with **Retrieval-Augmented Generation (RAG)** to create a highly atmospheric, 19th-century conversational agent. 
 
 The system acts as a sophisticated, brooding scholar, grounding its philosophical responses in the authentic texts of Charles Dickens, Bram Stoker, Emily Brontë, and Oscar Wilde.
+This was quite literally a 1 AM idea!
 
 ## 🚀 Live Demo
 **Try the deployed application here:** [VictorianGPT on Hugging Face](https://huggingface.co/spaces/tm-vettel/VictorianGPT)
